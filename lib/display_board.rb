@@ -1,2 +1,5 @@
-# Define display_board that accepts a board and prints
+def display_board
+board = [" "," "," "," "," "," "," "," "," "]
+puts display_board( board) # Define display_board that accepts a boardb and prints
+end 
 # out the current state.
